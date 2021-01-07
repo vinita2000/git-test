@@ -4,4 +4,6 @@ var x = ()=>{
 function y(){
 	console.log("this is another function");
 }
+console.log(1);
 console.log("this will probably create a conflict");
+console.log("this line is temporary");
